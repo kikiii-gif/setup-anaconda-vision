@@ -1,4 +1,4 @@
-# Setup-anaconda-vision tugas individu mata kuliah machine learning
+# Setup anaconda tugas individu mata kuliah machine learning
 Dosen Pengampu: Herfandi, A.Md., S.Kom., M.Kom
 
 Repositori ini berisi belajar mandiri tentang setup environment pada anaconda navigator 
