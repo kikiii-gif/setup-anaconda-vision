@@ -21,11 +21,14 @@ Environtment menggunakan command prompt : ENV_BELAJAR2
 # Langkah-langkah 
 1. Membuat environtmen virtual dan menentukan python versi berapa yang ingin digunakan
    conda create -n ENV_BELAJAR2 python=3.1
-2. Melihat list environten yang sudah dibuat dengan
+   
+3. Melihat list environten yang sudah dibuat dengan
    conda env list
-3. Mengaktifkan environment:
+   
+5. Mengaktifkan environment:
    conda activate ENV_BELAJAR2
-4. Verifikasi apakah sudah benar apakah ada eror dll
+   
+7. Verifikasi apakah sudah benar apakah ada eror dll
 
 
 # Link youtube 
