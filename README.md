@@ -12,9 +12,13 @@ Nim : 231001010
 
 # Hasil tugas mandiri
 Berikut adalah spesifikasi dan tahapan yang saya lakukan:
+
 Bahasa Pemrograman: Python 3.11
+
 Library Utama: OpenCV (opencv-python)
+
 Environment: ENV_BELAJAR (Anaconda)
+
 Environtment menggunakan command prompt : ENV_BELAJAR2
 
 
