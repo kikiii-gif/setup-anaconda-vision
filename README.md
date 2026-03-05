@@ -43,7 +43,7 @@ https://youtu.be/pXCWBu3AaBo?si=emEe4RrgJayzlkWd
 
 
 # Referensi kode
-Menggunakan conda sheatseet untuk sintaks nya
+Menggunakan conda cheatsheet untuk sintaks nya
 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
 
